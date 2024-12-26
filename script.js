@@ -1,10 +1,10 @@
 // Storing elements into variables 
 const itemForm = document.querySelector('#item-form')
 const itemInput = document.querySelector('#item-input');
-const itemList = document.querySelector('#item-list')
 const button = document.querySelector('.btn')
-const clearButton = document.querySelector('.btn-clear');
+const itemList = document.querySelector('#item-list')
 const filterButton = document.querySelector('#filter')  
+const clearButton = document.querySelector('.btn-clear');
 const items = document.querySelector('li'); 
 
 // Functions working on creating an Item 
